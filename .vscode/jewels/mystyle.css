@@ -1,0 +1,24 @@
+.nav-link
+{
+    padding:50px;
+    font-size: 29px;
+    color: aqua;
+    font-style: serif;
+    font-weight: bold;
+    border-radius: 1px;
+    border-color: black;
+    box-shadow: palegreen;
+    justify-content: center;
+    position: fixed;
+    left:750px;
+    border-bottom: 1px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+.flex
+{
+    padding:20px;
+}
+
+
+

@@ -1,0 +1,44 @@
+.nav-link
+{
+    padding:40px;
+    font-size: 29px;
+    color: aqua;
+    font-style: serif;
+    font-weight: bold;
+    border-radius: 1px;
+    border-color: black;
+    box-shadow: palegreen;
+    justify-content: center;
+    position: fixed;
+    left:750px;
+    border-bottom: 1px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+
+.container-fluid
+{
+ padding: 20px;
+
+}
+.rounded
+{
+    width:max-content;
+    height:22px;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-display: green;
+
+}
+.para
+{
+    margin-inline-start: 5rem;
+    width: 12rem;
+    height: 6rem;
+    text-align: end;
+    position: relative;
+    top: 2rem;
+    right:-5px;
+
+}
